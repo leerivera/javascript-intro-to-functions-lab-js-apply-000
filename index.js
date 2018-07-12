@@ -14,7 +14,7 @@ function logShout(string){
   console.log(string.toUpperCase())
 }
 
-var = "I can't hear you"
+var "I can't hear you";
 function sayHiToGrandma(){
   
   if('string === lowercase')
