@@ -14,12 +14,5 @@ function logShout(string){
   console.log(string.toUpperCase())
 }
 var string = "I can't hear you"
-function sayHiToGrandma(string){
-  
-  if('string === "I love you, Grandma')
-  return("I can't hear you!```");
-  else if('string === .toLowerCase')
-  return ("YES INDEED!");
-}
 
 
